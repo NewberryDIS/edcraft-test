@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+          <fileDesc>
+              <titleStmt>
+                  <title>
+                      <!-- Your Title Here -->
+                  </title>
+              </titleStmt>
+              <publicationStmt>
+                  <p></p>
+              </publicationStmt>
+              <sourceDesc>
+                  <p></p>
+              </sourceDesc>
+          </fileDesc>
+      </teiHeader>
+
+      <facsimile sameAs="https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8L6B4F0">
+                    <surface xml:id="f000" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LT2HPE" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LT2HPE"/></surface>
+          <surface xml:id="f001" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTEWBM" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTEWBM"/></surface>
+          <surface xml:id="f002" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTN9B0" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTN9B0"/></surface>
+          <surface xml:id="f003" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTNJLH" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTNJLH"/></surface>
+          <surface xml:id="f004" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTN1DF" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTN1DF"/></surface>
+          <surface xml:id="f005" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTMVAS" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTMVAS"/></surface>
+          <surface xml:id="f006" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTEAMV" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTEAMV"/></surface>
+          <surface xml:id="f007" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTE52G" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTE52G"/></surface>
+
+      </facsimile>
+
+      <text xml:id="text">
+<body><div>
+    <pb facs="#f001" />
+<ab>
+<lb />THE DECLARATION OF THE RIGHTS OF WOMEN
+<lb />
+<lb />Translated by Maggie O’Brien &amp; Lily Zenger
+<lb />
+<lb />FIRST ARTICLE
+<lb />Women are born, live, and die with the right to speak. They are equal in their ambition in this regard. Distinctions, among them, can only be founded on their more or less great command of speech.
+<lb /> 
+<lb />ARTICLE II
+<lb />The goal of all association, with them and among themselves, is the conservation of the right to speak: this right consists of the liberty to speak whatever comes to their mind, of the right to criticize, slander, and express radical ideas; of being assured of not running the risk of being hosed down  when they go
+</ab>
+
+<pb facs="#f002" />
+<ab>
+<lb />beyond the limits in their rebellion against what is considered normal.
+<lb /> 
+<lb />ARTICLE III
+<lb />In women, the principle of speech rests essentially in possessing the necessary organs for this ability. No body, no individual, nothing in the world can prevent a woman from speaking if she is endowed with these organs.
+<lb /> 
+<lb />ARTICLE IV
+<lb />Liberty, for women, consists of speaking, until they no longer possess the strength to do so. Therefore, the ability to exercise their natural rights is conserved in this part of the body, until the extinction of their physical abilities. 
+<lb />
+<lb />ARTICLE V
+<lb />No law has the right to prohibit women from speaking, unless they are absolutely debilitated or mute. Outside of these circumstances, no one can force them to be silent.
+<lb /> 
+<lb />ARTICLE VI
+<lb />The law, on the subject of women’s right of speech, 
+</ab>
+
+<pb facs="#f003" />
+<ab>
+<lb />can only be the expression of the injustice of their powerlessness in this regard. All women have the right to oppose the creation of this law, as in all other circumstances. This law can only be the same for all, whether it permits or whether it prohibits. All women are equal in the eyes of the law and are equally free to speak, according to the strength of their voice and their more or less developed ability to wield oratory skills. 
+<lb />
+<lb />ARTICLE VII
+<lb />No woman may be accused, arrested or held in jail, for having spoken, for the law cannot prohibit them from doing so, only when it is impossible for her to speak.
+<lb /> 
+<lb />
+<lb />ARTICLE VIII
+<lb />Given that it would be to do so, no woman may be questioned for her opinions, even in so far as love is concerned, as long as her opinions do not harm the rights of men.
+<lb /> 
+<lb />ARTICLE IX
+<lb />The free communication of thoughts and opinions is one of the most precious rights of woman, and even the most dear to her heart, since, outside of writing and gestures, she can only communicate them by speaking (which she will always prefer). All women may exercise their rights in this manner, 
+</ab>
+
+  </div></body>
+      </text>
+  </TEI>
