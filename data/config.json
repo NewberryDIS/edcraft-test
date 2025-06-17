@@ -1,9 +1,9 @@
 {
   "id": "ec",
-  "documentName": "Hamilton letter",
-  "iiifManifest": "/edcraft-test/hamilton/iiif/manifest.json",
+  "documentName": "FRC pamphlet",
+  "iiifManifest": "/edcraft-test/frc/iiif/manifest.json",
   "transcriptionTypes": {
-    "text": "Transcription"
+    "text": "Translation"
   },
   "viewerUrl": "/edcraft-test"
 }
