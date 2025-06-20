@@ -3,435 +3,600 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/manifest.json",
+	"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f000",
+			"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f000",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f000/annotationpage/0",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f000/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f000/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LT2HPE",
+								"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0001.jp2",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": 99999,
-								"width": 60399,
+								"height": 4483,
+								"width": 2707,
 								"service": [
 									{
-										"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LT2HPE",
+										"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0001.jp2",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f000"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f000"
 						}
 					]
 				}
 			],
-			"height": 99999,
-			"width": 60399,
+			"height": 4483,
+			"width": 2707,
 			"label": {
 				"none": [
-					"Déclaration des droits de la femme"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f001",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f001/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f001/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTEWBM",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 99999,
-								"width": 60399,
-								"service": [
-									{
-										"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTEWBM",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f001"
-						}
-					]
-				}
-			],
-			"height": 99999,
-			"width": 60399,
-			"label": {
-				"none": [
-					"Déclaration des droits de la femme"
+					"1"
 				]
 			},
 			"annotations": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f001/annotationPage/1",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f000/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f001/annotationPage/1/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f000/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://newberrydis.github.io/edcraft-test//frc/tei/text/f001.xml",
+								"id": "https://newberrydis.github.io/edcraft-test/frc/tei/text/f000.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f001"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f000"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f001/annotationPage/1/annotation/1",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f000/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://newberrydis.github.io/edcraft-test//frc/html/text/f001.html",
+								"id": "https://newberrydis.github.io/edcraft-test/frc/html/text/f000.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f001"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f000"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f002",
+			"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f002/annotationpage/0",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTN9B0",
+								"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0002.jp2",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": 99999,
-								"width": 60399,
+								"height": 4483,
+								"width": 2707,
 								"service": [
 									{
-										"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTN9B0",
+										"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0002.jp2",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f002"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f001"
 						}
 					]
 				}
 			],
-			"height": 99999,
-			"width": 60399,
+			"height": 4483,
+			"width": 2707,
 			"label": {
 				"none": [
-					"Déclaration des droits de la femme"
+					"2"
 				]
 			},
 			"annotations": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f002/annotationPage/1",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f002/annotationPage/1/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://newberrydis.github.io/edcraft-test//frc/tei/text/f002.xml",
+								"id": "https://newberrydis.github.io/edcraft-test/frc/tei/text/f001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f002"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f002/annotationPage/1/annotation/1",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://newberrydis.github.io/edcraft-test//frc/html/text/f002.html",
+								"id": "https://newberrydis.github.io/edcraft-test/frc/html/text/f001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f002"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f003",
+			"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f003/annotationpage/0",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f003/annotationpage/0/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTNJLH",
+								"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0003.jp2",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": 99999,
-								"width": 60399,
+								"height": 4483,
+								"width": 2707,
 								"service": [
 									{
-										"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTNJLH",
+										"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0003.jp2",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f003"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f002"
 						}
 					]
 				}
 			],
-			"height": 99999,
-			"width": 60399,
+			"height": 4483,
+			"width": 2707,
 			"label": {
 				"none": [
-					"Déclaration des droits de la femme"
+					"3"
 				]
 			},
 			"annotations": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f003/annotationPage/1",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f002/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f003/annotationPage/1/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f002/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://newberrydis.github.io/edcraft-test//frc/tei/text/f003.xml",
+								"id": "https://newberrydis.github.io/edcraft-test/frc/tei/text/f002.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f003"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f002"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f003/annotationPage/1/annotation/1",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f002/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://newberrydis.github.io/edcraft-test//frc/html/text/f003.html",
+								"id": "https://newberrydis.github.io/edcraft-test/frc/html/text/f002.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f003"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f002"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f004",
+			"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f004/annotationpage/0",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTN1DF",
+								"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0004.jp2",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": 99999,
-								"width": 60399,
+								"height": 4483,
+								"width": 2707,
 								"service": [
 									{
-										"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTN1DF",
+										"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0004.jp2",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f004"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f003"
 						}
 					]
 				}
 			],
-			"height": 99999,
-			"width": 60399,
+			"height": 4483,
+			"width": 2707,
 			"label": {
 				"none": [
-					"Déclaration des droits de la femme"
+					"4"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f003/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f003/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/tei/text/f003.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f003"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f003/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/html/text/f003.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f003"
+						}
+					]
+				}
+			]
 		},
 		{
-			"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f005",
+			"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f005/annotationpage/0",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f005/annotationpage/0/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTMVAS",
+								"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0005.jp2",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": 99999,
-								"width": 60399,
+								"height": 4483,
+								"width": 2707,
 								"service": [
 									{
-										"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTMVAS",
+										"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0005.jp2",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f005"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f004"
 						}
 					]
 				}
 			],
-			"height": 99999,
-			"width": 60399,
+			"height": 4483,
+			"width": 2707,
 			"label": {
 				"none": [
-					"Déclaration des droits de la femme"
+					"5"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f004/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f004/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/tei/text/f004.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f004"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f004/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/html/text/f004.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f004"
+						}
+					]
+				}
+			]
 		},
 		{
-			"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f006",
+			"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f006/annotationpage/0",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f006/annotationpage/0/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTEAMV",
+								"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0006.jp2",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": 99999,
-								"width": 60399,
+								"height": 4483,
+								"width": 2707,
 								"service": [
 									{
-										"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTEAMV",
+										"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0006.jp2",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f006"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f005"
 						}
 					]
 				}
 			],
-			"height": 99999,
-			"width": 60399,
+			"height": 4483,
+			"width": 2707,
 			"label": {
 				"none": [
-					"Déclaration des droits de la femme"
+					"6"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f005/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f005/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/tei/text/f005.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f005"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f005/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/html/text/f005.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f005"
+						}
+					]
+				}
+			]
 		},
 		{
-			"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f007",
+			"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f007/annotationpage/0",
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f007/annotationpage/0/annotation/0",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTE52G",
+								"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0007.jp2",
 								"format": "image/jpeg",
 								"type": "Image",
-								"height": 99999,
-								"width": 60399,
+								"height": 4483,
+								"width": 2707,
 								"service": [
 									{
-										"id": "https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTE52G",
+										"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0007.jp2",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://newberrydis.github.io/edcraft-test//frc/iiif/canvas/f007"
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f006"
 						}
 					]
 				}
 			],
-			"height": 99999,
-			"width": 60399,
+			"height": 4483,
+			"width": 2707,
 			"label": {
 				"none": [
-					"Déclaration des droits de la femme"
+					"7"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f006/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f006/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/tei/text/f006.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f006"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f006/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/html/text/f006.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f006"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f007",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f007/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f007/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0008.jp2",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4483,
+								"width": 2707,
+								"service": [
+									{
+										"id": "https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0008.jp2",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f007"
+						}
+					]
+				}
+			],
+			"height": 4483,
+			"width": 2707,
+			"label": {
+				"none": [
+					"8"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f007/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f007/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/tei/text/f007.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f007"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f007/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://newberrydis.github.io/edcraft-test/frc/html/text/f007.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://newberrydis.github.io/edcraft-test/frc/iiif/canvas/f007"
+						}
+					]
+				}
+			]
 		}
 	],
 	"label": {

@@ -4,7 +4,7 @@
           <fileDesc>
               <titleStmt>
                   <title>
-                      <!-- Your Title Here -->
+                      Déclaration des droits de la femme.
                   </title>
               </titleStmt>
               <publicationStmt>
@@ -16,21 +16,21 @@
           </fileDesc>
       </teiHeader>
 
-      <facsimile sameAs="https://collections.newberry.org/IIIF3/Presentation/Manifest/2KXJ8Z8L6B4F0">
-                    <surface xml:id="f000" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LT2HPE" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LT2HPE"/></surface>
-          <surface xml:id="f001" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTEWBM" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTEWBM"/></surface>
-          <surface xml:id="f002" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTN9B0" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTN9B0"/></surface>
-          <surface xml:id="f003" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTNJLH" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTNJLH"/></surface>
-          <surface xml:id="f004" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTN1DF" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTN1DF"/></surface>
-          <surface xml:id="f005" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTMVAS" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTMVAS"/></surface>
-          <surface xml:id="f006" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTEAMV" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTEAMV"/></surface>
-          <surface xml:id="f007" ulx="0" uly="0" lrx="60399" lry="99999" sameAs="https://collections.newberry.org/IIIF3/Presentation/Canvas/2KXJ8Z8LTE52G" ><label xml:lang="en">Déclaration des droits de la femme</label><graphic mimeType="application/json" url="https://collections.newberry.org/IIIF3/Image/2KXJ8Z8LTE52G"/></surface>
+      <facsimile sameAs="https://iiif.archive.org/iiif/declarationdesdr00phil/manifest.json">
+                    <surface xml:id="f000" ulx="0" uly="0" lrx="2707" lry="4483" sameAs="https://iiif.archive.org/iiif/declarationdesdr00phil$0/canvas" ><label>1</label><graphic mimeType="application/json" url="https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0001.jp2"/></surface>
+          <surface xml:id="f001" ulx="0" uly="0" lrx="2707" lry="4483" sameAs="https://iiif.archive.org/iiif/declarationdesdr00phil$1/canvas" ><label>2</label><graphic mimeType="application/json" url="https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0002.jp2"/></surface>
+          <surface xml:id="f002" ulx="0" uly="0" lrx="2707" lry="4483" sameAs="https://iiif.archive.org/iiif/declarationdesdr00phil$2/canvas" ><label>3</label><graphic mimeType="application/json" url="https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0003.jp2"/></surface>
+          <surface xml:id="f003" ulx="0" uly="0" lrx="2707" lry="4483" sameAs="https://iiif.archive.org/iiif/declarationdesdr00phil$3/canvas" ><label>4</label><graphic mimeType="application/json" url="https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0004.jp2"/></surface>
+          <surface xml:id="f004" ulx="0" uly="0" lrx="2707" lry="4483" sameAs="https://iiif.archive.org/iiif/declarationdesdr00phil$4/canvas" ><label>5</label><graphic mimeType="application/json" url="https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0005.jp2"/></surface>
+          <surface xml:id="f005" ulx="0" uly="0" lrx="2707" lry="4483" sameAs="https://iiif.archive.org/iiif/declarationdesdr00phil$5/canvas" ><label>6</label><graphic mimeType="application/json" url="https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0006.jp2"/></surface>
+          <surface xml:id="f006" ulx="0" uly="0" lrx="2707" lry="4483" sameAs="https://iiif.archive.org/iiif/declarationdesdr00phil$6/canvas" ><label>7</label><graphic mimeType="application/json" url="https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0007.jp2"/></surface>
+          <surface xml:id="f007" ulx="0" uly="0" lrx="2707" lry="4483" sameAs="https://iiif.archive.org/iiif/declarationdesdr00phil$7/canvas" ><label>8</label><graphic mimeType="application/json" url="https://iiif.archive.org/image/iiif/3/declarationdesdr00phil%2Fdeclarationdesdr00phil_jp2.zip%2Fdeclarationdesdr00phil_jp2%2Fdeclarationdesdr00phil_0008.jp2"/></surface>
 
       </facsimile>
 
       <text xml:id="text">
 <body><div>
-    <pb facs="#f001" />
+    <pb facs="#f000" />
 <ab>
 <lb />THE DECLARATION OF THE RIGHTS OF WOMEN
 <lb />
@@ -43,7 +43,7 @@
 <lb />The goal of all association, with them and among themselves, is the conservation of the right to speak: this right consists of the liberty to speak whatever comes to their mind, of the right to criticize, slander, and express radical ideas; of being assured of not running the risk of being hosed down  when they go
 </ab>
 
-<pb facs="#f002" />
+<pb facs="#f001" />
 <ab>
 <lb />beyond the limits in their rebellion against what is considered normal.
 <lb /> 
@@ -60,7 +60,7 @@
 <lb />The law, on the subject of women’s right of speech, 
 </ab>
 
-<pb facs="#f003" />
+<pb facs="#f002" />
 <ab>
 <lb />can only be the expression of the injustice of their powerlessness in this regard. All women have the right to oppose the creation of this law, as in all other circumstances. This law can only be the same for all, whether it permits or whether it prohibits. All women are equal in the eyes of the law and are equally free to speak, according to the strength of their voice and their more or less developed ability to wield oratory skills. 
 <lb />
@@ -73,6 +73,67 @@
 <lb /> 
 <lb />ARTICLE IX
 <lb />The free communication of thoughts and opinions is one of the most precious rights of woman, and even the most dear to her heart, since, outside of writing and gestures, she can only communicate them by speaking (which she will always prefer). All women may exercise their rights in this manner, 
+</ab>
+
+<pb facs="#f003" />
+<ab>
+<lb />as should always be the case, as long as it does not have negative repercussions.
+<lb /> 
+<lb />ARTICLE X
+<lb />The law, having to establish only strict and obviously necessary punishments, will be useless as long as women limit themselves to speaking and expressing basic and ineffectual opinions, however radical they may be.
+<lb /> 
+<lb />ARTICLE XI
+<lb />Everyone being presumed innocent, the law cannot harm women when they lack reason unless they are jeopardizing the safety of the public. If it is proven necessary to stop her, as in the above scenario, all efforts that would aim at forcing her to be sensible, given the impossibility of her bing so, must be severely condemned.
+</ab>
+<ab>
+<lb />ARTICLE XII
+<lb />The guarantee of the rights of women requires an utmost patience on the part of men. This patience must remain for the advantage of all, and not for the particular benefit of the latter. 
+<lb /> 
+</ab>
+<ab>
+<lb />ARTICLE XIII
+<lb />In order for men to remain patient,
+</ab>
+
+<pb facs="#f004" />
+<ab>
+<lb />they must devote themselves to complete apathy. Woe to those who cannot adhere to this state of being; for the difference between men and women, which men depend on, amounts to almost nothing.
+<lb /> 
+<lb />ARTICLE XIV
+<lb />All women have the right, or at least are encouraged, to note by themselves and their good male friends, to what extent they can try or use the patience of men for a given period of time. 
+<lb /> 
+<lb />ARTICLE XV
+<lb />All women have the right, (if only for their own instruction), to ask fellow women, the means that they use to try the patience of men.
+<lb /> 
+<lb />ARTICLE XVI
+<lb />Any society in which neither the guarantee of the rights of women nor the art of enraging well established men are secure brings women no enjoyment.
+</ab>
+<ab>
+<lb />ARTICLE XVII
+<lb />The art of contesting is, for women, a right that is both inherent and imperishable, no woman may be 
+</ab>
+
+<pb facs="#f005" />
+<ab>
+<lb />deprived of it, unless it pleases the Creator to make other women, endowed with a different constitution.
+</ab>
+
+<pb facs="#f006" />
+<ab>
+<lb />DEDICATION EPISTLE to Female Citizens
+<lb /> Citizens,
+<lb />For too long the Assemblée Nationale has made you wait for the declaration of your rights; it is essential and urgent that they be proclaimed. This is not to say that, until now, some among you have not exercised them with great zeal, at every opportunity. You have been seen constantly circulating among the clubs, putting forth motions, maybe even for some of you, emotions as well; speaking in your homes, in the streets, in the public squares, about public matters, debating the most important questions regarding economic policy, without knowing that which governs your domestic lives; discussing how to have provisions for the fairest price, vexing the merchants; or what is even better, seizing them by force, infiltrating the stores, plundering them; and finally tormenting the men so well that, should this have lasted, you would have infallibly reduced us to famine. It must be acknowledged that you have completed this task well: you have even exceeded it. Because 
+<lb />
+</ab>
+
+<pb facs="#f007" />
+<ab>
+<lb />you will see, in the declaration of your rights, Article X, that there can be no law that prohibits you from speaking and expressing your opinions, no matter how radical they may be, provided that they are not followed by consequences, and the contrary has occurred. Why have you not been made aware of your rights? Why have they not been seen to? Take them; I offer them to you with all the eagerness that a citizen who knows you can, one who knows to appreciate you for your true worth.
+<lb />I am equal, in the eyes of the law, to the most vigorous of you.
+</ab>
+<ab>
+<lb />PHILALETES
+<lb />November 1792, the first year of the Republic
 </ab>
 
   </div></body>
